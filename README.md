@@ -51,6 +51,12 @@ You will need to provide the actual song audio files and update the script.js fi
 
 Simply open the index.html file in your preferred web browser.
 
-Key Code Highlights (Based on HTML)
+**Key Code Highlights**
+
 1. Audio and Controls
+   
 The core playback is handled by a hidden <audio> element and a control button that triggers the main JavaScript function.
+
+2. Playlist Interactivity
+
+Each song row is set up to call a JavaScript function, passing its corresponding song number as an argument.
