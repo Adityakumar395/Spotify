@@ -55,8 +55,8 @@ Simply open the index.html file in your preferred web browser.
 
 1. Audio and Controls
    
-The core playback is handled by a hidden <audio> element and a control button that triggers the main JavaScript function.
+  The core playback is handled by a hidden <audio> element and a control button that triggers the main JavaScript function.
 
 2. Playlist Interactivity
 
-Each song row is set up to call a JavaScript function, passing its corresponding song number as an argument.
+  Each song row is set up to call a JavaScript function, passing its corresponding song number as an argument.
